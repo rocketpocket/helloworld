@@ -1,3 +1,4 @@
+// サーバ起動の魔法のリクアイアー♪
 var http = require('http');
 
 var pages = [
